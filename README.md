@@ -1,4 +1,4 @@
-# Unicorn Companies Analysis
+# Automated Data Integrity & Trend Analysis for Unicorn Companies 
 
 
 
